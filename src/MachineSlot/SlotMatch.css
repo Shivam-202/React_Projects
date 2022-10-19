@@ -1,0 +1,10 @@
+ 
+ .emoji div{
+   font-size: 1.5rem;
+   padding: 0.3rem;
+ }
+ 
+ .emoji h2{
+   border-bottom: 1.5px solid gray;
+   padding: 5px 5px;
+ }
